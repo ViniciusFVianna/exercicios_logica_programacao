@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Build artifacts and native debug symbols
+**/output/
+**/*.dSYM/
+**/*.o
+**/*.out
+**/*.exe
+
+# IDE metadata
+.idea/
+.vscode/
+
+# Dart and Flutter generated files
+.dart_tool/
+build/
+
+# Java and Kotlin build artifacts
+*.class
+*.jar
+out/
+
+# Node.js dependencies and logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
