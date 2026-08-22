@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class seasons {
+public class Seasons {
 
     public static void main(String[] args) {
         String input = JOptionPane.showInputDialog(
